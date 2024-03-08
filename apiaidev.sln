@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiaidev", "apiaidev\apiaidev.csproj", "{543BED40-E56E-436A-8A55-79C25A9A648D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{D8AB9B85-2C4E-4C3A-9D07-AC0B36AEC0F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543BED40-E56E-436A-8A55-79C25A9A648D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543BED40-E56E-436A-8A55-79C25A9A648D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543BED40-E56E-436A-8A55-79C25A9A648D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543BED40-E56E-436A-8A55-79C25A9A648D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8AB9B85-2C4E-4C3A-9D07-AC0B36AEC0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8AB9B85-2C4E-4C3A-9D07-AC0B36AEC0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8AB9B85-2C4E-4C3A-9D07-AC0B36AEC0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8AB9B85-2C4E-4C3A-9D07-AC0B36AEC0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {995F2186-ACB5-4F50-BB85-F46D861EB9F6}
+	EndGlobalSection
+EndGlobal
