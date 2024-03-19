@@ -4,5 +4,6 @@
     {
         public string ApiUrl { get; set; }
         public string ApiKey { get; set; }
+        public string OpenAI_ApiKey { get; set; }
     }
 }
